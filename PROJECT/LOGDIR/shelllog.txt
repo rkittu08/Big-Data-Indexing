@@ -1,0 +1,12 @@
+ls: Cannot access /user/root/in/2016-02-17: No such file or directory.
+Found 3 items
+-rw-r--r--   2 root supergroup       1354 2016-02-17 12:51 /user/root/in/2016-02-17/data.txt
+-rw-r--r--   2 root supergroup       1327 2016-02-17 12:51 /user/root/in/2016-02-17/data2.txt
+-rw-r--r--   2 root supergroup       1281 2016-02-17 12:51 /user/root/in/2016-02-17/data3.txt
+Found 6 items
+-rw-r--r--   2 root supergroup       1354 2016-02-17 12:51 /user/root/in/2016-02-17/data.txt
+-rw-r--r--   2 root supergroup       1327 2016-02-17 12:51 /user/root/in/2016-02-17/data2.txt
+-rw-r--r--   2 root supergroup       1281 2016-02-17 12:51 /user/root/in/2016-02-17/data3.txt
+-rw-r--r--   2 root supergroup       1223 2016-02-17 12:53 /user/root/in/2016-02-17/data4.txt
+-rw-r--r--   2 root supergroup       1137 2016-02-17 12:53 /user/root/in/2016-02-17/data5.txt
+-rw-r--r--   2 root supergroup       1116 2016-02-17 12:53 /user/root/in/2016-02-17/data6.txt
