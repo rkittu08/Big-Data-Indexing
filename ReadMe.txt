@@ -1,14 +1,3 @@
-With the burgeoning realization of effective data analytics and Big Data management tools, there is a dearth
-of techniques that support effective contextual query processing. Existing HADOOP Distributed File System
-(HDFS) file index supports storage using Apache Lucene©. The Lucene file index widely supports
-contextual searching and indexing of text documents alone. In this context, there is a need for better file
-indexing based on patterns inherent to the non-text data stored. We propose an indexing and retrieval
-schema using clustering features. The clustering features serve as profiles of know clusters. These profiles
-evolve incrementally with the insertion of newer data.
-The objective of this work is to develop a framework that exploits big data storage infrastructure like
-HDFS, while capturing inherent data patterns for effective query processing. The proposed framework
-employs (a) data cleaning and data transformation to ensure consistency in data formats before storage
-into HDFS. (b) We prose a profile based aggregation schematic to store data in a hierarchical manner for
-effective indexing. Furthermore, (c) the created index will then be exploited for pattern based data retrieval
-over large volumes of data. We showcase the effectiveness of the proposed framework using data from
-simulated biological experiments.
+With the burgeoning realization of effective data analytics and Big Data management tools, there is a dearth of techniques that support effective contextual query processing. Existing HADOOP Distributed File System (HDFS) file index supports storage using Apache Lucene©. The Lucene file index widely supports contextual searching and indexing of text documents alone. In this context, there is a need for better file indexing based on patterns inherent to the non-text data stored. We propose an indexing and retrieval schema using clustering features. The clustering features serve as profiles of know clusters. These profiles evolve incrementally with the insertion of newer data.
+The objective of this work is to develop a framework that exploits big data storage infrastructure like HDFS, while capturing inherent data patterns for effective query processing. The proposed framework
+employs (a) data cleaning and data transformation to ensure consistency in data formats before storage into HDFS. (b) We prose a profile based aggregation schematic to store data in a hierarchical manner for effective indexing. Furthermore, (c) the created index will then be exploited for pattern based data retrieval over large volumes of data. We showcase the effectiveness of the proposed framework using data from simulated biological experiments.
