@@ -1,0 +1,7 @@
+﻿create external table ram (col1 string) partitioned by (day string); 
+
+alter table ram add partition(day='2016-02-17') location '/user/root/in/2016-02-17';
+
+alter table ram add partition(day='2016-02-19') location '/user/root/in/2016-02-19';
+
+

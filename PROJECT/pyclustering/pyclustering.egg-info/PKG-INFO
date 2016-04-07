@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: pyclustering
+Version: 0.6.dev0
+Summary: pyclustring is a python data mining library
+Home-page: ~/Desktop/ram/pyclustering
+Author: Andrei Novikov
+Author-email: pyclustering@yandex.ru
+License: GNU Public License
+Description: UNKNOWN
+Keywords: pyclustering data mining cluster analysis neural oscillatory networks
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: GNU Public License
+Classifier: Programming Language :: Python :: 3.4
